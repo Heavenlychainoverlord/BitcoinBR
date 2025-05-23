@@ -82,7 +82,6 @@ BitcoinBR (BTCBR) is more than just a digital token — it's a movement driven b
 
 - **BscScan:** [View on BscScan](https://bscscan.com/token/0xaA5395428E952CF4005Ef5CC58B425C684D93599)  
 - **PancakeSwap Buy Link:** [Buy BTCBR on PancakeSwap](https://pancakeswap.finance/swap?outputCurrency=0xaA5395428E952CF4005Ef5CC58B425C684D93599)  
- - **CoinMarketCap:** [BitcoinBR on CoinMarketCap](https://coinmarketcap.com/currencies/0xaA5395428E952CF4005Ef5CC58B425C684D93599/)
 - **Whitepaper (IPFS):** [View Whitepaper](https://ipfs.io/ipfs/bafybeia4uawycq2qevhve77ubolekzyaig47z5466dykmhyyd2wrsvw324)  
 - **LinkedIn Team Profile:** [View on LinkedIn](https://www.linkedin.com/in/heavenlychain-overlord-220498363)  
 - **Telegram Community:** [Join Telegram](https://t.me/BTCBRCOIN)  
