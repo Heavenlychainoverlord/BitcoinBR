@@ -1,0 +1,23 @@
+## Logo Variants
+
+### SVG Formats
+
+- **Logo Token (32×32 SVG)**  
+  [https://ipfs.io/ipfs/bafkreiftxpg4ei2j2ccvty6izuhwmga4ovrrcsfqq2dkmdbebjsekwrfwy](https://ipfs.io/ipfs/bafkreiftxpg4ei2j2ccvty6izuhwmga4ovrrcsfqq2dkmdbebjsekwrfwy)
+
+- **Logo Token (128×128 SVG)**  
+  [https://ipfs.io/ipfs/bafkreidzplnruplwnaymuzgaaawjyrybsh2qzsi6qz3uwg7ssaug4r2c6u](https://ipfs.io/ipfs/bafkreidzplnruplwnaymuzgaaawjyrybsh2qzsi6qz3uwg7ssaug4r2c6u)
+
+- **Logo Token (256×256 SVG)**  
+  [https://ipfs.io/ipfs/bafkreigg5ud3uoy7376qm5dfk6oibjokvi2xf6i6jitqmzzrwj6tenw4xm](https://ipfs.io/ipfs/bafkreigg5ud3uoy7376qm5dfk6oibjokvi2xf6i6jitqmzzrwj6tenw4xm)
+
+---
+
+### PNG Formats
+
+- **Logo Token (128×128 PNG)**  
+  [https://ipfs.io/ipfs/bafkreia6vq2va55dx4fbircz4emnf2p2wupczih63k6g3uqxsxemu4iqz4](https://ipfs.io/ipfs/bafkreia6vq2va55dx4fbircz4emnf2p2wupczih63k6g3uqxsxemu4iqz4)
+
+- **Logo Token (256×256 PNG)**  
+  [https://ipfs.io/ipfs/bafkreidbgfyihl4jov2kngn3tqcvye73rhtvzeddix54uzimseenthfb3u](https://ipfs.io/ipfs/bafkreidbgfyihl4jov2kngn3tqcvye73rhtvzeddix54uzimseenthfb3u)
+
